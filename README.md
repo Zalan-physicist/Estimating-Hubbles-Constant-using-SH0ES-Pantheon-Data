@@ -7,4 +7,5 @@ Therefore, by observing the apparent magnitude, and using the relation, mu= m - 
 Here, mu is distance modulus,  m is the apparent magnitude, M is the absolute magnitude and d_l is the luminosity distance.
 We plot m against redshift, z.
 Using the definiton of luminosity distance from cosmology, we obtain a theoretical model, on which we run regression using scipy.optimize's subpackage curve_fit to estimate Hubble's constant. 
- 
+
+This code may be used by anyone for academic purposes.
