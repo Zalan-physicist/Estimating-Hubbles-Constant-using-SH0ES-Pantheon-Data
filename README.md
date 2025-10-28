@@ -6,4 +6,5 @@ The absolute magnitude of Type 1A Supernovae is constant with a value of approxi
 Therefore, by observing the apparent magnitude, and using the relation, mu= m - M = 5 log(d_l / 10 parsec).
 Here, mu is distance modulus,  m is the apparent magnitude, M is the absolute magnitude and d_l is the luminosity distance.
 We plot m against redshift, z.
-Using the definiton of luminosity distance from cosmology, we obtain a theoretical model, on which we run regression using scipy.optimize's subpackage curve_fit to estimate Hubble's constant.
+Using the definiton of luminosity distance from cosmology, we obtain a theoretical model, on which we run regression using scipy.optimize's subpackage curve_fit to estimate Hubble's constant. 
+ 
